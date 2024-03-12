@@ -1,4 +1,4 @@
-num = int(input())
+n = int(input())
 
-for i in range(num+1):
-    print("*"*(num-i))
+for i in range(n+1):
+    print("*"*(n-i))
