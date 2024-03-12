@@ -115,7 +115,7 @@
     A B C D E
     A B C D E F
 
-15. Reverse Letter Triangle Pattern -> 
+15. Reverse Letter Triangle Pattern -> reverse_letter_triangle.py
     A B C D E F
     A B C D E 
     A B C D
@@ -123,7 +123,7 @@
     A B
     A
 
-16. Alpha-Ramp Pattern -> 
+16. Alpha-Ramp Pattern -> alpha_ramp.py
     A 
     B B
     C C C
@@ -131,7 +131,7 @@
     E E E E E
     F F F F F F
 
-17. Alpha Hill Pattern -> 
+17. Alpha Hill Pattern -> alpha_hill.py
          A     
         ABA    
        ABCBA   
@@ -139,7 +139,7 @@
      ABCDEDCBA 
     ABCDEFEDCBA
 
-18. Alpha Triangle Pattern -> 
+18. Alpha Triangle Pattern -> alpha_triangle.py
     F
     E F
     D E F
