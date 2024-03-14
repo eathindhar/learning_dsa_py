@@ -1,46 +1,46 @@
-1. Rectangular Star Pattern -> rectangle.py
+1. 01_rectangle.py
 	*****
 	*****
 	*****
 	*****
 	*****
 
-2. Right-Angled Triangle Pattern -> right_triangle.py
+2. 02_right_triangle.py
 	*
 	**
 	***
 	****
 	*****
 
-3. Right-Angled Number Triangle - 1 -> right_angled_number_triangle_1.py
+3. 03_right_angled_number_triangle_1.py
 	1
 	12
 	123
 	1234
 	12345
 
-4. Right-Angled Number Triangle - 2 -> right_angled_number_triangle_2.py
+4. 04_right_angled_number_triangle_2.py
 	1
 	22
 	333
 	4444
 	55555
 
-5. Inverted Right Triangle -> inverted_right_triangle.py
+5. 05_inverted_right_triangle.py
 	*****
 	****
 	***
 	**
 	*
 
-6. Inverted Number Right Triangle -> right_angled_inverted_number_triangle.py
+6. 06_right_angled_inverted_number_triangle.py
 	12345
 	1234
 	123
 	12
 	1
 
-7. Star Pyramid -> star_pyramid.py
+7. 07_star_pyramid.py
 	     *     
 	    ***    
 	   *****   
@@ -48,7 +48,7 @@
 	 ********* 
 	***********
 
-8. Inverted Star Pyramid -> inverted_star_pyramid.py
+8. 09_inverted_star_pyramid.py
 	***********
 	 *********
 	  *******
@@ -56,7 +56,7 @@
 	    ***    
 	     *
 
-9. Diamond Star Pattern -> diamond_star_pyramid.py
+9. 09_diamond_star_pyramid.py
          *
         ***
        ***** 
@@ -70,7 +70,7 @@
         ***    
          *
 
-10. Half Diamond Star Pattern -> half_diamond_star_pyramid.py
+10. 10_half_diamond_star_pyramid.py
          *
          **
          *** 
@@ -83,7 +83,7 @@
          **
          *
 
-11. Binary Number Triangle Pattern -> binary_number_triangle.py
+11. 11_binary_number_triangle.py
     1
     01
     101
@@ -91,7 +91,7 @@
     10101
     010101
 
-12. Number Crown Pattern -> number_crown.py
+12. 12_number_crown.py
     1          1
     12        21
     12       321
@@ -99,7 +99,7 @@
     12345  54321
     123456654321
 
-13. Increasing Number Triangle Pattern -> increasing_number_triangle.py
+13. 13_increasing_number_triangle.py
     1
     2  3
     4  5  6
@@ -107,7 +107,7 @@
     11  12  13  14  15
     16  17  18  19  20  21
 
-14. Increasing Letter Triangle Pattern -> increasing_letter_triangle.py
+14. 14_increasing_letter_triangle.py
     A
     A B
     A B C
@@ -115,7 +115,7 @@
     A B C D E
     A B C D E F
 
-15. Reverse Letter Triangle Pattern -> reverse_letter_triangle.py
+15. 15_reverse_letter_triangle.py
     A B C D E F
     A B C D E 
     A B C D
@@ -123,7 +123,7 @@
     A B
     A
 
-16. Alpha-Ramp Pattern -> alpha_ramp.py
+16. 16_alpha_ramp.py
     A 
     B B
     C C C
@@ -131,7 +131,7 @@
     E E E E E
     F F F F F F
 
-17. Alpha Hill Pattern -> alpha_hill.py
+17. 17_alpha_hill.py
          A     
         ABA    
        ABCBA   
@@ -139,7 +139,7 @@
      ABCDEDCBA 
     ABCDEFEDCBA
 
-18. Alpha Triangle Pattern -> alpha_triangle.py
+18. 18_alpha_triangle.py
     F
     E F
     D E F
@@ -147,7 +147,7 @@
     B C D E F
     A B C D E F
 
-19. Symmetric Void Pattern -> symmetric_void.py
+19. 19_symmetric_void.py
     ************
     *****  *****
     ****    ****
@@ -161,7 +161,7 @@
     *****  *****
     ************
     
-20. Symmetric Butterfly Pattern -> symmetric_butterfly.py
+20. 20_symmetric_butterfly.py
     *          *
     **        **
     ***      ***
@@ -174,7 +174,7 @@
     **        **
     *          *
 
-21.  Hollow Rectangle Pattern -> hollow_rectangle.py
+21. 21_hollow_rectangle.py
     ******
     *    *
     *    *
@@ -182,7 +182,7 @@
     *    *
     ******
 
-22. The Number Pattern -> number_matrix.py
+22. 22_number_matrix.py
     6 6 6 6 6 6 6 6 6 6 6 
     6 5 5 5 5 5 5 5 5 5 6 
     6 5 4 4 4 4 4 4 4 5 6 
