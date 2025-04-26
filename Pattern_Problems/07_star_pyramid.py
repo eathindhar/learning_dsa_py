@@ -1,3 +1,15 @@
+""""
+
+7. 07_star_pyramid.py
+	     *     
+	    ***    
+	   *****   
+	  *******  
+	 ********* 
+	***********
+
+"""
+
 n = int(input())
 num_str = ""
 for i in range(0,n):

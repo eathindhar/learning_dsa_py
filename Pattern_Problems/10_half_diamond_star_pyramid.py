@@ -1,3 +1,20 @@
+""""
+
+10. 10_half_diamond_star_pyramid.py
+         *
+         **
+         *** 
+         ****
+         *****
+         ******  
+         *****
+         ****
+         ***    
+         **
+         *
+
+"""
+
 print("Program Started")
 n = int(input())
 num_str = ""

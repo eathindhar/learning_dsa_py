@@ -1,3 +1,15 @@
+""""
+
+18. 18_alpha_triangle.py
+    F
+    E F
+    D E F
+    C D E F
+    B C D E F
+    A B C D E F
+
+"""
+
 print("Program Started")
 n = int(input())
 num_str = ""

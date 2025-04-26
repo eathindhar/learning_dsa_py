@@ -1,3 +1,14 @@
+""""
+
+1. 01_rectangle.py
+	*****
+	*****
+	*****
+	*****
+	*****
+
+"""
+
 def print_rectangle_1(n):
     for i in range(n):
         for j in range(n):

@@ -1,3 +1,15 @@
+""""
+
+17. 17_alpha_hill.py
+         A     
+        ABA    
+       ABCBA   
+      ABCDCBA  
+     ABCDEDCBA 
+    ABCDEFEDCBA
+
+"""
+
 print("Program Started")
 n = int(input())
 num_str = ""

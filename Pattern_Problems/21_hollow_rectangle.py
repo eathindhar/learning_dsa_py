@@ -1,3 +1,15 @@
+""""
+
+21. 21_hollow_rectangle.py
+    ******
+    *    *
+    *    *
+    *    *
+    *    *
+    ******
+
+"""
+
 print("Program Started")
 n = int(input())
 num_str = ""

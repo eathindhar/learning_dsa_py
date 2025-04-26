@@ -1,3 +1,15 @@
+""""
+
+11. 11_binary_number_triangle.py
+    1
+    01
+    101
+    0101
+    10101
+    010101
+
+"""
+
 print("Program Started")
 n = int(input())
 num_str = ""

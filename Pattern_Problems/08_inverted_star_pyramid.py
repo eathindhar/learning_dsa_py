@@ -1,3 +1,15 @@
+""""
+
+8. 09_inverted_star_pyramid.py
+	***********
+	 *********
+	  *******
+	   ***** 
+	    ***    
+	     *
+
+"""
+
 print("Program Started")
 n = int(input())
 num_str = ""
