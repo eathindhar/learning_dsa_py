@@ -11,7 +11,9 @@
                 "<",
                 "input.txt",
                 ">",
-                "output.txt"
+                "output.txt",
+                "2>",
+                "error.txt"
             ],
             "presentation": {
                 "reveal": "never"

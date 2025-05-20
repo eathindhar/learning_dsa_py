@@ -12,4 +12,20 @@ Output: false
 Explanation: Number of digits : 2.
 1 ^ 2 + 2 ^ 2 = 1 + 4 = 5.
 
+Constraints:
+0 <= n <= 5000
+
 """
+
+n = int(input())
+
+if 0 <= n <= 5000 :
+    n_str = str(n)
+    pow = len(n_str)
+    total = sum(int(digit) ** pow for digit in n_str)
+    if total == n:
+        print("true")
+    else:
+        print("false")
+else:
+    print("false")
