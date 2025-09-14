@@ -11,4 +11,9 @@ Explanation: Since the order of elements gets reversed the first element will oc
 
 """
 
-    
+n = int(input())
+arr = []
+for i in range(0,n):
+    arr.append(int(input()))
+
+print("input: ",n," output : ",arr)
