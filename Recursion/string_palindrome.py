@@ -29,6 +29,8 @@ def is_palindrome(str):
             return "Palindrome"
 
 
+print(is_palindrome(input_str))
+
 #recursive function:
 def is_palindrome_recursive(str):
     pass
