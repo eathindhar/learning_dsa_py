@@ -3,6 +3,10 @@
 ## For .py files
 Run the code by Pressing "Ctrl + Shift + B"
 
+## Input / Output
+Give your inputs in "input.txt" file and the output or errors will be displayed in the "output.txt" file
+
+
 ## For .ipynb files
 Run the code as usual by creating a virtual environment as mentioned below
 
@@ -26,3 +30,4 @@ pip freeze
 
 # Save to requirements file
 pip freeze > requirements.txt
+

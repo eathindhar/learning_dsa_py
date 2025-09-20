@@ -4,7 +4,7 @@
         {
             "label": "Run Python CMD",
             "type": "shell",
-            "command": "python \"${relativeFile}\" < input.txt > output.txt 2> error.txt",
+            "command": "python \"${relativeFile}\" < input.txt > output.txt 2>&1",
             "group": {
                 "kind": "build",
                 "isDefault": true

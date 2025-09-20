@@ -1,1 +1,1 @@
-Palindrome
+Your output will be displayed here.
