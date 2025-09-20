@@ -6,6 +6,13 @@ Run the code by Pressing "Ctrl + Shift + B"
 ## Input / Output
 Give your inputs in "input.txt" file and the output or errors will be displayed in the "output.txt" file
 
+## Now run the below command to ignore the changes to input.txt and output.txt 
+git update-index --skip-worktree input.txt
+git update-index --skip-worktree output.txt
+
+## Command to undo the above change
+git update-index --no-skip-worktree input.txt
+git update-index --no-skip-worktree output.txt
 
 ## For .ipynb files
 Run the code as usual by creating a virtual environment as mentioned below
